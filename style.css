@@ -1,0 +1,30 @@
+.attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
+
+.contenedor {
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: rgb(19, 93, 212);
+}
+.contenedor > div {
+    background: rgba(202, 188, 188, 0.2);
+    padding: 15 px;
+    border: 1px solid rgb(19, 93, 212);
+}
+#containera{
+  background:rgb(222, 232, 244);
+  display:flex;
+align-items: center;
+justify-content: center;
+}
+#card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
